@@ -11,5 +11,3 @@ Doctrine Defender is a simple 3D shooter game built using Unreal Engine 4, that 
 - Mouse to move around
 - Alt+Enter to toggle fullscreen
 - Escape to quit the game
-
-**Disclaimer:** *The game was built for my kids to teach them sound doctrines using games, and not intended for a wider gaming audience. It is posted here for like minded parents.*
