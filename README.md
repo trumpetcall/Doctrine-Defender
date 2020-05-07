@@ -1,11 +1,15 @@
 # Doctrine-Defender
-The shooter game that is required to remove all false doctrines from the arena by shooting it. You win by shooting out all false doctrines and you lose by shooting out even one correct doctrine.
 
-Controls:
+## About
+Doctrine Defender is a simple 3D shooter game built using Unreal Engine 4, that requires you to remove all false doctrines from the arena by shooting it. You win by shooting out all false doctrines and throwing them out of the arena and you lose by shooting even one correct doctrine out of the arena. Pre-built executables are available in [releases](https://github.com/fiidau/Doctrine-Defender/releases/latest)
 
-* Arrows for direction
-* Mouse to move around
-* Alt+Enter to toggle fullscreen
-* Escape to quit the game
+## Screenshot
+![Doctrine-Defender-Screenshot](doctrine_defender.jpg)
 
-Link: : https://trumpet-call.org/2018/10/11/doctrine-defender/
+## Controls
+- Arrows for direction
+- Mouse to move around
+- Alt+Enter to toggle fullscreen
+- Escape to quit the game
+
+**Disclaimer:** *The game was built for my kids to teach them sound doctrines using games, and not intended for a wider gaming audience. It is posted here for like minded parents.*
